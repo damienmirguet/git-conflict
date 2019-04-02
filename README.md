@@ -1,1 +1,3 @@
-# git-conflict V2
+# git-conflict
+
+name = TOTO
